@@ -1,4 +1,4 @@
-//@author yamil
+
 public class Nodo {
 
     String español, ingles;
